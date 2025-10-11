@@ -1,0 +1,1 @@
+Sau khi clone về máy vào file main đi đến đoạn code đọc file ảnh và file bess.pt đổi đường dẫn của máy mình và chạy trong terminal python main_copy.py để test model 
