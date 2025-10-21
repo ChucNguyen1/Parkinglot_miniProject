@@ -154,7 +154,7 @@ from ultralytics import YOLO
 model = YOLO(r"C:\Users\84827\ParkingBTN\bestt.pt")   # đổi đường dẫn tới file best.pt của bạn
 
 # Đọc ảnh
-image_path = r"C:\Users\84827\Pictures\I'm oke\0-bai-do-xe-o-to.jpg"# đổi sang ảnh của bạn
+image_path = r"C:\Users\84827\Pictures\I'm oke\parking-lot-4928423.webp"  # đổi sang ảnh của bạn
 frame = cv2.imread(image_path)
 
 # Chạy YOLOv8 trên ảnh
